@@ -19,7 +19,7 @@ HK用愛發電vps-年付12u，老板没有做好准备，抢了40分钟才付款
 >**可申請 BGP Session**
 >**可額外加購 IP 地址**
 
-### 1⃣️. 融合怪测试
+### 1.1 融合怪测试
 
 ```bash
 --------------------- A Bench Script By spiritlhl ----------------------
@@ -212,22 +212,22 @@ Speedtest.net    2182.35 Mbps    4038.77 Mbps    0.68     0.0%
 ------------------------------------------------------------------------
 ```
 
-### 2⃣️. Youtube测试
+### 1.2 Youtube测试
 
-<img width="518" alt="Youtube-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/3ca60bce-b4c2-47ca-a59f-3dfb7c5e8dc2">
+![Youtube-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/3ca60bce-b4c2-47ca-a59f-3dfb7c5e8dc2)
 
-### 3⃣️. SpeedTest
+### 1.3 SpeedTest
 
 * 多线程
 
-<img width="388" alt="speedtest-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/06a75d63-db28-4916-943c-3499510cfcea">
+![speedtest-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/06a75d63-db28-4916-943c-3499510cfcea)
 
 * 单线程
 
-<img width="387" alt="speedtest-HK用愛發電vps-单线程" src="https://github.com/tossnotes/VPSTest/assets/96852061/6b6aa29d-ae9c-4ac6-80c9-8275eb8db9d2">
+![speedtest-HK用愛發電vps-单线程](https://github.com/tossnotes/VPSTest/assets/96852061/6b6aa29d-ae9c-4ac6-80c9-8275eb8db9d2)
 
-### 4⃣️. 哪吒探针
+### 1.4 哪吒探针
 
-<img width="1083" alt="nezha-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/bc8d6514-dd8d-4805-8b8f-f9426ec9fa33">
+![nezha-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/bc8d6514-dd8d-4805-8b8f-f9426ec9fa33)
 
 
