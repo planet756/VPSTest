@@ -214,19 +214,18 @@ Speedtest.net    2182.35 Mbps    4038.77 Mbps    0.68     0.0%
 
 ### 2⃣️. Youtube测试
 
-![Youtube-HK用愛發電vps](/Users/planet/Typora/typora-user-images/Youtube-HK用愛發電vps.png)
+<img width="518" alt="Youtube-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/3ca60bce-b4c2-47ca-a59f-3dfb7c5e8dc2">
 
 ### 3⃣️. SpeedTest
 
 * 多线程
 
-![speedtest-HK用愛發電vps](/Users/planet/Typora/typora-user-images/speedtest-HK用愛發電vps.png)
-
+<img width="388" alt="speedtest-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/06a75d63-db28-4916-943c-3499510cfcea">
 * 单线程
 
-![speedtest-HK用愛發電vps-单线程](/Users/planet/Typora/typora-user-images/speedtest-HK用愛發電vps-单线程.png)
+<img width="387" alt="speedtest-HK用愛發電vps-单线程" src="https://github.com/tossnotes/VPSTest/assets/96852061/6b6aa29d-ae9c-4ac6-80c9-8275eb8db9d2">
 
 ### 4⃣️. 哪吒探针
+<img width="1083" alt="nezha-HK用愛發電vps" src="https://github.com/tossnotes/VPSTest/assets/96852061/bc8d6514-dd8d-4805-8b8f-f9426ec9fa33">
 
-![nezha-HK用愛發電vps](/Users/planet/Typora/typora-user-images/nezha-HK用愛發電vps.png)
 
