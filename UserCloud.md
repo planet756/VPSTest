@@ -214,20 +214,20 @@ Speedtest.net    2182.35 Mbps    4038.77 Mbps    0.68     0.0%
 
 ### 1.2 Youtube测试
 
-![Youtube-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/3ca60bce-b4c2-47ca-a59f-3dfb7c5e8dc2)
+![Youtube-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/a5f4688a-d7e2-4e98-b87c-c5d964409328)
 
 ### 1.3 SpeedTest
 
 * 多线程
 
-![speedtest-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/06a75d63-db28-4916-943c-3499510cfcea)
+![speedtest-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/980ce322-3076-4ff3-9a07-b79c80d54c4a)
 
 * 单线程
 
-![speedtest-HK用愛發電vps-单线程](https://github.com/tossnotes/VPSTest/assets/96852061/6b6aa29d-ae9c-4ac6-80c9-8275eb8db9d2)
+![speedtest-HK用愛發電vps-单线程](https://github.com/tossnotes/VPSTest/assets/96852061/6c981e08-1d5c-41ca-8ec9-d6ea9690e9e7)
 
 ### 1.4 哪吒探针
 
-![nezha-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/bc8d6514-dd8d-4805-8b8f-f9426ec9fa33)
+![nezha-HK用愛發電vps](https://github.com/tossnotes/VPSTest/assets/96852061/0f42bc1d-6112-4723-8d0a-a40caf00ad26)
 
 
