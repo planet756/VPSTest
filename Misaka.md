@@ -3,10 +3,14 @@ Misaka HK S3P2-1C1G 21刀/月
 S3P2-1C1G | HK: **[链接](https://app.misaka.io/iaas/vm/create/hkg12/s3p2-1c1g "Misaka S3P2")**
 
 官网配置:
->1 vCPU
->1 GB RAM
->16 GB SSD
->716 GB Transfer 单向流量计算
+> 1 vCPU
+> 
+> 1 GB RAM
+> 
+> 16 GB SSD
+> 
+> 716 GB Transfer 单向流量计算
+> 
 
 ### 1. 融合怪测评
 
